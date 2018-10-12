@@ -11,6 +11,6 @@ There are several data structures and algorithms implemented in this project. Th
 * Queue
 
 **Searching Algorithms**
-* Linear Search
+* [Linear Search](https://github.com/MarufurRahman/Data-Structures-and-Algorithms/tree/master/Linear%20Search)
 
 ### More implementation coming soon...
