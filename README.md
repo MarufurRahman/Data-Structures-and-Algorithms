@@ -14,4 +14,8 @@ There are several data structures and algorithms implemented in this project. Th
 * [Linear Search](https://github.com/MarufurRahman/Data-Structures-and-Algorithms/tree/master/Linear%20Search)
 * [Binary Search](https://github.com/MarufurRahman/Data-Structures-and-Algorithms/blob/master/Binary%20Search/Binary%20Search.cpp)
 
-### More implementation coming soon...
+**Sorting Algorithms**
+* Bubble Sort
+* Quick Sort
+
+#### More implementation coming soon...
